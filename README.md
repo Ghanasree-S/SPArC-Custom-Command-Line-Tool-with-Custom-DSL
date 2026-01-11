@@ -27,12 +27,19 @@ SPARC introduces:
 ## 🗂️ Project Structure
 SPARC/
 ├── dsl_core_enhanced.py # DSL grammar, parsing logic, and execution rules
+
 ├── main_enhanced.py # Main entry point (CLI execution)
+
 ├── nlp_processor_enhanced.py # NLP-based command processing
+
 ├── ui_enhanced.py # PyQt GUI implementation
+
 ├── write_ui.py # UI helper utilities
+
 ├── sparc.db # Local database for command/state storage
+
 ├── requirements.txt # Project dependencies
+
 └── README.md # Project documentation
 
 

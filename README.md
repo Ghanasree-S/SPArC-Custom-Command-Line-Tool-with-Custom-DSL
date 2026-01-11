@@ -1,4 +1,4 @@
-# SPARC – Custom Command-Line Tool with Custom DSL
+# SPArC – Custom Command-Line Tool with Custom DSL
 
 SPARC is a Python-based command-line and GUI system that implements a **custom Domain-Specific Language (DSL)** for executing structured commands. The project demonstrates core concepts of **Formal Languages and Automata**, combined with **NLP-assisted command processing** and a **PyQt-based GUI**.
 <img width="2878" height="1700" alt="Screenshot 2026-01-11 231429" src="https://github.com/user-attachments/assets/a0787a09-0d54-4946-ab81-afcc3bffef69" />
@@ -6,7 +6,7 @@ SPARC is a Python-based command-line and GUI system that implements a **custom D
 ---
 
 ## 📌 Overview
-SPARC allows users to interact with a system using high-level, structured DSL commands instead of traditional rigid command-line syntax. It includes a complete interpreter pipeline and optional NLP-based command translation.
+SPArC allows users to interact with a system using high-level, structured DSL commands instead of traditional rigid command-line syntax. It includes a complete interpreter pipeline and optional NLP-based command translation.
 
 ---
 
@@ -16,7 +16,7 @@ Traditional command-line interfaces require users to memorize strict syntax, whi
 ---
 
 ## 🚀 Solution
-SPARC introduces:
+SPArC introduces:
 - A **custom DSL** for structured command execution
 - A **lexer–parser–interpreter pipeline**
 - An **NLP processing layer** for flexible command interpretation
@@ -62,12 +62,12 @@ venv\Scripts\activate
 pip install -r requirements.txt
 ```
 
-### 🔹 4. Run SPARC (Command-Line Mode)
+### 🔹 4. Run SPArC (Command-Line Mode)
 ```bash
 python main_enhanced.py
 ```
 
-### 🔹 5. Run SPARC (GUI Mode)
+### 🔹 5. Run SPArC (GUI Mode)
 ```bash
 python ui_enhanced.py
 ```

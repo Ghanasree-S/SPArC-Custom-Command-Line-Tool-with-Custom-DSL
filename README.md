@@ -73,8 +73,11 @@ python ui_enhanced.py
 ```
 
 ## 🧪 Example DSL Commands
+
 create file report.txt
+
 delete folder temp
+
 calculate performance score
 
 ## 📚 Concepts Demonstrated
